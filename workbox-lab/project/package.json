@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "browser-sync": "2.23.6",
-    "del": "3.0.0",
+    "del": "8.0.0",
     "gulp": "3.9.1",
     "run-sequence": "2.2.1"
   },
